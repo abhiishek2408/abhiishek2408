@@ -37,18 +37,18 @@ I am a full stack developer with a strong foundation in web and mobile applicati
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔥 [React Restaurant Website](https://github.com/abhishek2408/React-Restaurant-Website) | A responsive restaurant website with React |
-| 📱 [Eduzzle React Native App](https://github.com/abhishek2408/EduzzleApp-React-Native) | Mobile app for student learning |
-| 🌐 [Library Management System](https://github.com/abhishek2408/Library-management-system) | Complete backend & frontend for managing libraries |
-| 🍲 [Recipe App](https://github.com/abhishek2408/RecipeApp) | Browse and filter recipes with modern UI |
-| ⛅ [Weather App](https://github.com/abhishek2408/WeatherApp-ReactNative) | Real-time weather app using React Native |
-| 🎮 [Guess Number Game](https://github.com/abhishek2408/Guess-Number-Game) | A small interactive number game |
-| 💼 [Portfolio Website](https://github.com/abhishek2408/myportfolio) | Showcasing skills, projects, and resume |
-| 📊 [DSA Programs](https://github.com/abhishek2408/Data-Structure-Programs) | Core Java DSA implementations |
-| 💡 [useContext Example](https://github.com/abhishek2408/useContext) | Demo of React Context API usage |
-| 🧾 [Online Restro Backend](https://github.com/abhishek2408/React-Online-restro-backend) | Node & PHP backend for a restaurant app |
+| Project | Description | Technologies Used |
+|--------|-------------|-------------------|
+| 🔥 [React Restaurant Website](https://github.com/abhishek2408/React-Restaurant-Website) | A responsive website for restaurant ordering | React, CSS, JavaScript |
+| 📱 [EduzzleApp React Native](https://github.com/abhishek2408/EduzzleApp-React-Native) | A student-friendly mobile learning app | React Native, Expo, JS |
+| 🌐 [Library Management System](https://github.com/abhishek2408/Library-management-system) | System for book inventory, issue/return | PHP, MySQL, HTML, Bootstrap |
+| 🍲 [Recipe App](https://github.com/abhishek2408/RecipeApp) | Browse, search and view various recipes | React, API Integration |
+| ⛅ [Weather App](https://github.com/abhishek2408/WeatherApp-ReactNative) | Real-time weather updates with location | React Native, API, JS |
+| 🎮 [Guess Number Game](https://github.com/abhishek2408/Guess-Number-Game) | Fun number guessing logic game | JavaScript, HTML, CSS |
+| 💼 [Portfolio Website](https://github.com/abhishek2408/myportfolio) | Showcasing my skills and resume | React, CSS, JSX |
+| 📊 [DSA Programs](https://github.com/abhishek2408/Data-Structure-Programs) | Java implementation of DSA topics | Java, Collections |
+| 💡 [useContext Demo](https://github.com/abhishek2408/useContext) | Demo of context-based state handling | React, Hooks |
+| 🧾 [Online Restro Backend](https://github.com/abhishek2408/React-Online-restro-backend) | Backend APIs for restaurant app | Node.js, Express, MySQL |
 
 ---
 
@@ -59,11 +59,11 @@ I am a full stack developer with a strong foundation in web and mobile applicati
   → Built a Sudoku solver with 95% success rate  
   → Improved time complexity of recursive algorithms
 
-- **Certificates**
-  - Server-side JavaScript with Node.js – *Coursera*
-  - HTML, CSS, and JS for Web Developers – *Coursera*
-  - DSA Algorithm Specialization – *Coursera*
-  - CPP Programming Specialization – *Coursera*
+**Certificates**
+- Server-side JavaScript with Node.js – *Coursera*
+- HTML, CSS, and JS for Web Developers – *Coursera*
+- DSA Algorithm Specialization – *Coursera*
+- CPP Programming Specialization – *Coursera*
 
 ---
 
