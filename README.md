@@ -9,10 +9,7 @@
 I am a full stack developer with a strong foundation in web and mobile application development. I have hands-on experience building scalable, secure, and performance-optimized applications using modern technologies like React, PHP, Node.js, and MySQL. I am currently enhancing my skills in cloud deployment, API integration, and advanced problem solving with data structures and algorithms. I take a proactive and collaborative approach to development and enjoy building user-centric applications that solve real-world problems.
 </p>
 
-📫 Email: abhishekydv2408@gmail.com  
-📱 Phone: +91-9305963544  
-🌐 Portfolio: [MyPortfolio](https://github.com/abhishek2408/myportfolio)  
-🔗 LinkedIn: [abhishek-yadav2408](https://linkedin.com/in/abhishek-yadav2408)
+
 
 ---
 
