@@ -56,16 +56,30 @@ I am a full stack developer with a strong foundation in web and mobile applicati
 
 ## 🎓 Training & Certifications
 
-- **GeeksforGeeks DSA Training (Jun’24 - Jul’24)**  
-  → Solved 200+ Java problems  
-  → Built a Sudoku solver with 95% success rate  
-  → Improved time complexity of recursive algorithms
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Training-GeeksforGeeks DSA-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>
 
-**Certificates**
-- Server-side JavaScript with Node.js – *Coursera*
-- HTML, CSS, and JS for Web Developers – *Coursera*
-- DSA Algorithm Specialization – *Coursera*
-- CPP Programming Specialization – *Coursera*
+  <p align="left">
+    📅 <strong>Duration:</strong> Jun’24 - Jul’24  
+    🔹 Solved 200+ Java problems  
+    🔹 Built a Sudoku Solver with 95% accuracy  
+    🔹 Improved recursive algorithm efficiency by 30%  
+  </p>
+
+  <hr style="border:1px solid #ccc; width:80%"/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Certificate-Node.js-blue?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Certificate-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Certificate-DSA-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Certificate-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </p>
+
+  <p>
+    🧾 All certifications are issued by <strong>Coursera</strong> and demonstrate expertise in web development, DSA, and backend development.
+  </p>
+</div>
 
 ---
 
