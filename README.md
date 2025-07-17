@@ -40,19 +40,18 @@ I am a full stack developer with a strong foundation in web and mobile applicati
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies Used |
-|--------|-------------|-------------------|
-| 🔥 [React Restaurant Website](https://github.com/abhishek2408/React-Restaurant-Website) | A responsive website for restaurant ordering | React, CSS, JavaScript |
-| 📱 [EduzzleApp React Native](https://github.com/abhishek2408/EduzzleApp-React-Native) | A student-friendly mobile learning app | React Native, Expo, JS |
-| 🌐 [Library Management System](https://github.com/abhishek2408/Library-management-system) | System for book inventory, issue/return | PHP, MySQL, HTML, Bootstrap |
-| 🍲 [Recipe App](https://github.com/abhishek2408/RecipeApp) | Browse, search and view various recipes | React, API Integration |
-| ⛅ [Weather App](https://github.com/abhishek2408/WeatherApp-ReactNative) | Real-time weather updates with location | React Native, API, JS |
-| 🎮 [Guess Number Game](https://github.com/abhishek2408/Guess-Number-Game) | Fun number guessing logic game | JavaScript, HTML, CSS |
-| 💼 [Portfolio Website](https://github.com/abhishek2408/myportfolio) | Showcasing my skills and resume | React, CSS, JSX |
-| 📊 [DSA Programs](https://github.com/abhishek2408/Data-Structure-Programs) | Java implementation of DSA topics | Java, Collections |
-| 💡 [useContext Demo](https://github.com/abhishek2408/useContext) | Demo of context-based state handling | React, Hooks |
-| 🧾 [Online Restro Backend](https://github.com/abhishek2408/React-Online-restro-backend) | Backend APIs for restaurant app | Node.js, Express, MySQL |
-
+| Project | Description | Technologies Used | Features / Highlights |
+|--------|-------------|-------------------|------------------------|
+| 🔥 [React Restaurant Website](https://github.com/abhishek2408/React-Restaurant-Website) | A responsive website for restaurant ordering | React, CSS, JavaScript | Online ordering, menu UI, responsive layout |
+| 📱 [EduzzleApp React Native](https://github.com/abhishek2408/EduzzleApp-React-Native) | A student-friendly mobile learning app | React Native, Expo | User login, subject-wise content, local storage |
+| 🌐 [Library Management System](https://github.com/abhishek2408/Library-management-system) | System for managing library books & users | PHP, MySQL, Bootstrap | Role-based access, book reservation, overdue alerts |
+| 🍲 [Recipe App](https://github.com/abhishek2408/RecipeApp) | Search and view various recipes | React, API Integration | Live search, category filter, mobile friendly |
+| ⛅ [Weather App](https://github.com/abhishek2408/WeatherApp-ReactNative) | Real-time weather updates | React Native, API | Auto-location fetch, unit switch, live icon display |
+| 🎮 [Guess Number Game](https://github.com/abhishek2408/Guess-Number-Game) | Fun number guessing game | JavaScript, HTML, CSS | Random logic, score counter, simple UI |
+| 💼 [Portfolio Website](https://github.com/abhishek2408/myportfolio) | Personal portfolio & resume site | React, JSX, CSS | Animated UI, project showcase, download CV |
+| 📊 [DSA Programs](https://github.com/abhishek2408/Data-Structure-Programs) | Java implementations of DSA | Java | Arrays, Trees, LinkedList, Recursion |
+| 💡 [useContext Demo](https://github.com/abhishek2408/useContext) | Context API state management demo | React, Hooks | Clean example of prop drilling solution |
+| 🧾 [Online Restro Backend](https://github.com/abhishek2408/React-Online-restro-backend) | Backend for restaurant app | Node.js, Express, MySQL | REST API, secure routes, auth token middleware |
 ---
 
 ## 🎓 Training & Certifications
